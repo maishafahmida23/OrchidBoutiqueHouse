@@ -1,1 +1,2 @@
 # OrchidBoutiqueHouse
+**Orchid Boutique House** is an online boutique store where customers can conveniently purchase clothing for **men, women, and children**. The platform ensures a seamless shopping experience with key features such as **inventory management, billing, supplier coordination, order processing, and customer management**. With a diverse collection of trendy and high-quality apparel, Orchid Boutique House aims to provide a hassle-free and enjoyable online shopping experience.

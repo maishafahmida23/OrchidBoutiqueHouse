@@ -23,4 +23,7 @@ This project presents a user interface (UI) design prototype for **Orchid Fashio
 **📷 Screenshots**
 ![image](https://github.com/user-attachments/assets/06518476-3132-47e6-9acc-407403cf4c8f)
 ![image](https://github.com/user-attachments/assets/666057c5-ca67-48f5-8204-f32af00c4cd8)
-![image](https://github.com/user-attachments/assets/b5f1c77d-1b45-455a-96fe-255c7967f522)
+![image](https://github.com/user-attachments/assets/71580ed9-93de-47fc-9b53-76ec5e0a4d35)
+![image](https://github.com/user-attachments/assets/a2b03d43-63de-4eac-bd3a-40597b22b9f0)
+![image](https://github.com/user-attachments/assets/a195ae78-a5e0-4c3a-ab7b-cc33db73cdd1)
+![image](https://github.com/user-attachments/assets/81a92a3a-5274-4f5f-a485-d0cc176cc55b)
